@@ -71,7 +71,7 @@ created.
 
 Here are some pointers:
 
-* [`wasm_bindgen` documentation](https://rustwasm.github.io/wasm-bindgen)
+* [`wasm_bindgen` documentation](https://github.com/wasm-bindgen/wasm-bindgen)
 * HTML Frameworks (sorted by GitHub stars)
     * [Yew](https://yew.rs/)
     * [Leptos](https://github.com/gbj/leptos)
